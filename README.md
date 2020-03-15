@@ -25,6 +25,6 @@ No installing anything.
 
 ## Authors
 
-* **Andy J chen** - *Initial work* - https://github.com/AndyJChen24/Homework/tree/master/Week6
+* **Andy J chen** - *Initial work* - https://github.com/AndyJChen24/WeatherAPI
 * - *Website* - https://andyjchen24.github.io/WeatherAPI/
 
